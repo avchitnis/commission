@@ -13,6 +13,10 @@
 - The player will then drag their mouse, releasing at a different point on the screen
 - These new coordinates are recorded
 
+<h3>
+  How the compass directions are assigned
+</h3>
+
 - Using these coordinates, some simple mathematics is done
 - The distance and direction in which the mouse has moved is calculated
 - The direction has been abstracted into 8 compass points:
