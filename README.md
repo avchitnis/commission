@@ -4,6 +4,8 @@
 - A corresponding animation to this movement is performed
 
 # Details
+
+# # How the mouse is tracked
 - When the player left mouse clicks, the coordinates of that mouse click are recorded
 - The player will then drag their mouse, releasing at a different point on the screen
 - These new coordinates are recorded
@@ -11,7 +13,7 @@
 - Using these coordinates, some simple mathematics is done
 - The distance and direction in which the mouse has moved is calculated
 - The direction has been abstracted into 8 compass points:
-- - North, North East, East, South East, South, South West, West, North West
+  - North, North East, East, South East, South, South West, West, North West
 
 - The player must have dragged a minimum distance to proceed
 - If this is the case, the direction of the drag is matched to an animation
