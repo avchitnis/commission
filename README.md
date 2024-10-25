@@ -22,6 +22,10 @@
 - The direction has been abstracted into 8 compass points:
   - North, North East, East, South East, South, South West, West, North West
 
+<h3>
+  Execution
+</h3>
+
 - The player must have dragged a minimum distance to proceed
 - If this is the case, the direction of the drag is matched to an animation
 - The animation in this instance is the movement of an NPC around the baseplate
