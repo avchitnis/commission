@@ -5,7 +5,7 @@
 
 # Details
 
-# # How the mouse is tracked
+<h2>How the mouse is tracked</h2>
 - When the player left mouse clicks, the coordinates of that mouse click are recorded
 - The player will then drag their mouse, releasing at a different point on the screen
 - These new coordinates are recorded
